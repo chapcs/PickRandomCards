@@ -41,6 +41,7 @@ internal class Program
             {
                 Console.Write("You did not enter a number, enter the number of cards to pick:");
                 line = Console.ReadLine();
+                Console.WriteLine();
             }
         }
         
